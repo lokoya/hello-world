@@ -8,3 +8,6 @@ To do list included:
 3. Open a pull request and 
 4. Merge pull request
 And then celebrate!
+
+And then I came back, to do more.
+Hoping to have mastered the process by now!!
